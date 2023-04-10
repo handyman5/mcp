@@ -1,0 +1,6 @@
+faster-whisper
+gevent
+pyttsx3
+sounddevice
+soundfile
+sseclient
